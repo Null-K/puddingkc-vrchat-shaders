@@ -21,3 +21,7 @@ A collection of Unity shaders created for experimentation and fun, mainly for us
 ### Slice 2D
 > shaders/Effect_Slice2D.shader  
 <img src="images/slice_2d.png">
+
+### Rainbow Outline
+> shaders/Effect_RainbowOutline.shader  
+<img src="images/rainbow_outline.png">
