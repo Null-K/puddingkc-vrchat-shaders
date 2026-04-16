@@ -17,3 +17,7 @@ A collection of Unity shaders created for experimentation and fun, mainly for us
 ### Cognitive Pollution
 > shaders/Effect_CognitivePollution.shader  
 <img src="images/cognitive_pollution.png">
+
+### Slice 2D
+> shaders/Effect_Slice2D.shader  
+<img src="images/slice_2d.png">
