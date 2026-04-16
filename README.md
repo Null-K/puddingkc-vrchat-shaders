@@ -12,16 +12,20 @@ A collection of Unity shaders created for experimentation and fun, mainly for us
 
 ### Blur
 > shaders/Effect_Blur.shader  
+> *Animation effects
 <img src="images/blur.png">
 
 ### Cognitive Pollution
 > shaders/Effect_CognitivePollution.shader  
+> *Animation effects
 <img src="images/cognitive_pollution.png">
 
 ### Slice 2D
 > shaders/Effect_Slice2D.shader  
+> *Animation effects
 <img src="images/slice_2d.png">
 
 ### Rainbow Outline
 > shaders/Effect_RainbowOutline.shader  
+> *Animation effects
 <img src="images/rainbow_outline.png">
