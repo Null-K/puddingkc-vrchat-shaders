@@ -6,4 +6,6 @@
 
 # 效果预览
 
-## Blur
+### Blur
+> shaders/Effect_Blur.shader  
+<img src="images/blur.png">
