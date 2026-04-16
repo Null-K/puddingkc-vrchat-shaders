@@ -34,6 +34,7 @@ Shader "PuddingKC/Effects/Slice2D"
 
             struct appdata
             {
+                UNITY_VERTEX_INPUT_INSTANCE_ID
                 float4 vertex : POSITION;
                 float2 uv : TEXCOORD0;
             };
