@@ -30,7 +30,7 @@ Shader "PuddingKC/Effects/Blur"
             float4 _GrabTexture_TexelSize;
             float _BlurSize, _BlurStrength, _EdgeSoftness, _Distortion, _Chromatic, _MosaicSize, _CenterSoftness;
 
-            struct appdata { float4 vertex : POSITION; float2 uv : TEXCOORD0; };
+            struct appdata { UNITY_VERTEX_INPUT_INSTANCE_ID float4 vertex : POSITION; float2 uv : TEXCOORD0; };
             struct v2f { float4 vertex : SV_POSITION; float4 screenPos : TEXCOORD0; float2 uv : TEXCOORD1; UNITY_VERTEX_OUTPUT_STEREO };
 
             v2f vert(appdata v) {
