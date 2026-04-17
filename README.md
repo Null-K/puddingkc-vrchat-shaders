@@ -29,3 +29,8 @@ A collection of Unity shaders created for experimentation and fun, mainly for us
 > shaders/Effect_RainbowOutline.shader  
 > *Animation effects
 <img src="images/rainbow_outline.png">
+
+### Living Veil
+> shaders/Effect_LivingVeil.shader  
+> *Animation effects
+<img src="images/living_veil.png">
