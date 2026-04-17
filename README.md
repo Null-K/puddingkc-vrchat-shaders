@@ -34,3 +34,8 @@ A collection of Unity shaders created for experimentation and fun, mainly for us
 > shaders/Effect_LivingVeil.shader  
 > *Animation effects
 <img src="images/living_veil.png">
+
+### Hologram
+> shaders/Effect_Hologram.shader  
+> *Animation effects
+<img src="images/hologram.png">
